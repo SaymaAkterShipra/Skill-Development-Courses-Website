@@ -19,7 +19,8 @@
 }
 .logo{
     margin-top: 12px;
-    width: 100px;
+    width: 200px;
+    margin-left: -30px;
     
 }
 .header-text{
@@ -131,6 +132,7 @@ nav ul li:hover{
     box-shadow: 0 0 4px white;
     padding-left: 20px;
     font-size: 18px;
+    
     
 }
 #menubtn{
@@ -367,7 +369,8 @@ hr{
     flex-wrap: wrap;
 }
 .footer-logo img{
-    width: 100px;
+    width: 200px;
+    
 
 }
 .footer-logo button{
@@ -379,7 +382,7 @@ hr{
     flex-basis: 40%;
 }
 .copyright-text small{
-    font-size: 14px;
+    font-size: 12px;
 
 }
 /* social-icons */
@@ -418,8 +421,9 @@ hr{
         margin-left: 50px;
     }
     .logo{
-        margin-top: 22px;
-        width: 70px;
+        margin-top: 4px;
+        width: 130px;
+       margin-left: -18px;
     }
     .header-text{
        
@@ -474,7 +478,9 @@ hr{
     
     }
     
-    
+    .footer-logo img{
+        width: 150px;
+    }
 
     
     #courses button{
